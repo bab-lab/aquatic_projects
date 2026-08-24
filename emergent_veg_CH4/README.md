@@ -35,18 +35,16 @@ Hyperlinked DOI for this dataset: TBD
 The terms under which this dataset may be used follows the CC BY-SA 4.0 license. 
 
 **AUTHOR/CREATOR INFORMATION** <br>
-Position: MSc Student, Author <br>
+Position: MSc student, main author <br>
 Name: Kelsey McGuire <br>
 ORCID: 0009-0003-0016-3838 <br>
 Institution: University of British Columbia <br>
-Address: https://kelsey-mcguire.github.io <br>
 Email: kmcguire.9@outlook.com <br>
 
 Position: Principal investigator, corresponding author <br>
-Name: McKenzie Kuhn <br>
+Name: Dr. McKenzie Kuhn <br>
 ORCID: 0000-0003-3871-1548 <br>
 Institution: University of British Columbia <br>
-Address: https://sites.chem.utoronto.ca/murphygroup/pi <br>
 Email: mckenzie.kuhn@ubc.ca <br>
 
 All experimental results can be reproduced using the code and data in this repository. Feel free to contact McKenzie Kuhn (corresponding author) by email at mckenzie.kuhn@ubc.ca if you have any questions about our work. 
